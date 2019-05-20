@@ -10,15 +10,11 @@
 <h2>SERVICES</h2>
     
      
-    <a href=https://www.fishvets.org/tools/locator/locator.asp?id=30
->home</a> 
+    <a href=file:index.html>home</a> 
     
- <a href=file:///C:/mychapter2/index.html
->Services</a> 
-    <a href=file:///C:/mychapter2/index.html
->Ask the Vet</a> 
-    <a href=https://www.fishvets.org/tools/locator/locator.asp?id=30
->Contact</a> 
+    <a href=file:services.html>Services</a> 
+    <a href=file:askvet.html>Ask the Vet</a> 
+    <a href=file:contacts.html>Contact</a> 
     
     
     <ul>
